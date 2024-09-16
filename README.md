@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0176-second-highest-salary) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
