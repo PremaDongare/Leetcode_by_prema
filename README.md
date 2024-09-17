@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0176-second-highest-salary) |
+| [0182-duplicate-emails](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0182-duplicate-emails) |
 ## Linked List
 |  |
 | ------- |
