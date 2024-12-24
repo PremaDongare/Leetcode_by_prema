@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0141-linked-list-cycle) |
 ## Database
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0443-string-compression) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0075-sort-colors) |
 ## Memoization
 |  |
