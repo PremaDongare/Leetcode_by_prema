@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0004-median-of-two-sorted-arrays) |
 | [0036-valid-sudoku](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0055-jump-game) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Tree
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0540-single-element-in-a-sorted-array) |
