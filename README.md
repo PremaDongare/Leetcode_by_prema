@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -159,5 +160,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
