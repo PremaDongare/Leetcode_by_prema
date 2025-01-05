@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0004-median-of-two-sorted-arrays) |
 | [0036-valid-sudoku](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0049-group-anagrams) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0141-linked-list-cycle) |
 ## Database
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0037-sudoku-solver) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0051-n-queens) |
