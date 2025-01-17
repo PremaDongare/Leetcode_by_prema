@@ -11,20 +11,21 @@
  */
 public class Solution {
     public boolean hasCycle(ListNode head) {
-        if(head == null || head.next == null){
-            return false;
-        }
+        // start slow and fast pointer 
+        ListNode slowPtr = head;
+        ListNode fastPtr = head;
 
-        ListNode slow = head;
-        ListNode fast = head.next;
+        while(slowPtr != null && fastPtr != null && fastPtr.next != null){
 
-        while (slow != fast){
-            if(fast == null || fast.next == null){
-                return false;
+            slowPtr = slowPtr.next;
+            fastPtr = fastPtr.next.next;
+
+            //if they meet then we found the loop
+            if(slowPtr == fastPtr){
+                return true;
             }
-            slow = slow.next;
-            fast = fast.next.next;
-        }
-        return true;
+        } 
+        return false;
+        
     }
 }
