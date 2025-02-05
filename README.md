@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0232-implement-queue-using-stacks) |
 ## Matrix
 |  |
 | ------- |
@@ -237,8 +238,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
