@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0646-maximum-length-of-pair-chain) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0948-sort-an-array) |
+| [1985-maximum-subarray-min-product](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1985-maximum-subarray-min-product) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2195-time-needed-to-buy-tickets](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2195-time-needed-to-buy-tickets) |
 | [2662-check-knight-tour-configuration](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2662-check-knight-tour-configuration) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0496-next-greater-element-i) |
+| [1985-maximum-subarray-min-product](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1985-maximum-subarray-min-product) |
 ## Matrix
 |  |
 | ------- |
@@ -258,4 +260,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0496-next-greater-element-i) |
+| [1985-maximum-subarray-min-product](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1985-maximum-subarray-min-product) |
+## Prefix Sum
+|  |
+| ------- |
+| [1985-maximum-subarray-min-product](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1985-maximum-subarray-min-product) |
 <!---LeetCode Topics End-->
