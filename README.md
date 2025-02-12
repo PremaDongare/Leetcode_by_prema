@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0948-sort-an-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2195-time-needed-to-buy-tickets](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2195-time-needed-to-buy-tickets) |
 | [2662-check-knight-tour-configuration](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2662-check-knight-tour-configuration) |
 ## Hash Table
 |  |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2195-time-needed-to-buy-tickets](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2195-time-needed-to-buy-tickets) |
 | [2662-check-knight-tour-configuration](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2662-check-knight-tour-configuration) |
 ## Heap (Priority Queue)
 |  |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0387-first-unique-character-in-a-string) |
+| [2195-time-needed-to-buy-tickets](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2195-time-needed-to-buy-tickets) |
 ## Monotonic Stack
 |  |
 | ------- |
