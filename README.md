@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0146-lru-cache) |
 | [0387-first-unique-character-in-a-string](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0496-next-greater-element-i) |
 ## Database
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0206-reverse-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0908-middle-of-the-linked-list) |
@@ -243,10 +245,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
