@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0937-online-stock-span) |
 | [1985-maximum-subarray-min-product](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1985-maximum-subarray-min-product) |
 ## Matrix
 |  |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -269,9 +271,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0937-online-stock-span) |
 | [1985-maximum-subarray-min-product](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1985-maximum-subarray-min-product) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1985-maximum-subarray-min-product](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1985-maximum-subarray-min-product) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
