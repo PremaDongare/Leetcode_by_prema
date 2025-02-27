@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0543-diameter-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0540-single-element-in-a-sorted-array) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Binary Tree
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0543-diameter-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Greedy
 |  |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0543-diameter-of-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2662-check-knight-tour-configuration) |
 ## Breadth-First Search
