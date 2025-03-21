@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0349-intersection-of-two-arrays](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0540-single-element-in-a-sorted-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0646-maximum-length-of-pair-chain) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0146-lru-cache) |
+| [0349-intersection-of-two-arrays](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0496-next-greater-element-i) |
 ## Database
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0151-reverse-words-in-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0908-middle-of-the-linked-list) |
 ## String Matching
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0222-count-complete-tree-nodes) |
+| [0349-intersection-of-two-arrays](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0540-single-element-in-a-sorted-array) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0075-sort-colors) |
+| [0349-intersection-of-two-arrays](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0349-intersection-of-two-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0646-maximum-length-of-pair-chain) |
 | [0948-sort-an-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1014-k-closest-points-to-origin) |
