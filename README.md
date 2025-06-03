@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1036-rotting-oranges) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1985-maximum-subarray-min-product](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1985-maximum-subarray-min-product) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2662-check-knight-tour-configuration](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2662-check-knight-tour-configuration) |
 ## Simulation
 |  |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0801-is-graph-bipartite) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Combinatorics
 |  |
 | ------- |
