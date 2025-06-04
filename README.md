@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0459-repeated-substring-pattern) |
 | [1508-longest-happy-prefix](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1508-longest-happy-prefix) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0908-middle-of-the-linked-list) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String Matching
 |  |
 | ------- |
@@ -388,4 +390,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/3201-distribute-candies-among-children-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 <!---LeetCode Topics End-->
