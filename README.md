@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0459-repeated-substring-pattern) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1508-longest-happy-prefix](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1508-longest-happy-prefix) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Two Pointers
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0801-is-graph-bipartite) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Graph
 |  |
 | ------- |
