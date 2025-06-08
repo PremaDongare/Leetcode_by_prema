@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0386-lexicographical-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0386-lexicographical-numbers) |
 | [0513-find-bottom-left-tree-value](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0662-maximum-width-of-binary-tree) |
