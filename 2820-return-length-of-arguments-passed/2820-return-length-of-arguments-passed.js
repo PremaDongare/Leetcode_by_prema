@@ -3,12 +3,14 @@
  * @return {number}
  */
 var argumentsLength = function(...args) {
-    let count =0;
-    for(let i in args){
+    // let count =0;
+    // for(let i in args){
        
-        count++;
-    }
-    return count;
+    //     count++;
+    // }
+    // return count;
+
+    return args.length;
 };
 
 /**
