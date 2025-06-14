@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
