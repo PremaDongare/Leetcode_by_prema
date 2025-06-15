@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0070-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1014-k-closest-points-to-origin) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3201-distribute-candies-among-children-ii](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/3201-distribute-candies-among-children-ii) |
 ## Recursion
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0135-candy) |
 | [0646-maximum-length-of-pair-chain](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0646-maximum-length-of-pair-chain) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2704-maximum-difference-by-remapping-a-digit) |
