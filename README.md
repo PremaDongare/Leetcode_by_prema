@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0540-single-element-in-a-sorted-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0646-maximum-length-of-pair-chain) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0525-contiguous-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0525-contiguous-array) |
 | [1985-maximum-subarray-min-product](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1985-maximum-subarray-min-product) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Data Stream
