@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1036-rotting-oranges) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1985-maximum-subarray-min-product](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1985-maximum-subarray-min-product) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0908-middle-of-the-linked-list) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String Matching
 |  |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Binary Tree
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1014-k-closest-points-to-origin) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Memoization
 |  |
 | ------- |
