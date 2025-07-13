@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0070-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1014-k-closest-points-to-origin) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2050-count-good-numbers](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2050-count-good-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3201-distribute-candies-among-children-ii](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/3201-distribute-candies-among-children-ii) |
 ## Recursion
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0206-reverse-linked-list) |
+| [2050-count-good-numbers](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2050-count-good-numbers) |
 ## String
 |  |
 | ------- |
