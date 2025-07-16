@@ -1,38 +1,23 @@
 class Solution {
+
+    private List<String> result= new ArrayList<>();
     public List<String> generateParenthesis(int n) {
-        List<String> result = new ArrayList<>();
-        generate("",n,0,result);
+        solve( n, "",0,0);
         return result;
     }
 
-    // to check if the paranthesis are valid
-    private boolean isValid(String str){
-        int sum =0;
-        for(char ch:str.toCharArray()){
-            if(ch == '(')
-            sum ++;
-        else
-        sum--;
-        if(sum <0)
-        return false;
-        }
-
-        return sum ==0;
-    }
-
-    //recursive function
-    private void generate(String curr, int n, int length, List<String> result){
-        if(length == 2*n){
-        if(isValid(curr))
+ private void solve(int n, String curr, int open, int close) {
+    if (curr.length() == 2 * n) {
         result.add(curr);
         return;
-        }
-
-        curr +='(';
-        generate(curr, n, length+1, result);
-        curr = curr.substring(0, curr.length()-1);
-
-        curr+=')';
-        generate(curr, n, length+1, result);
     }
+
+    if (open < n) {
+        solve(n, curr + '(', open + 1, close);
+    }
+    if (close < open) {
+        solve(n, curr + ')', open, close + 1);
+    }
+}
+
 }
