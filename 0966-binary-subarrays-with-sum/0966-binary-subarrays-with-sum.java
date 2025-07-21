@@ -1,20 +1,28 @@
 class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
-        Map<Integer,Integer> map = new HashMap<>();
-        map.put(0,1);
-
-        int sum =0;
+        int prefixzero=0;
+        int windowsum =0;
         int count =0;
+        int i=0, j=0;
 
-        for(int num:nums){
-            sum += num;
+        while(j<nums.length){
+            windowsum += nums[j];
 
-            if(map.containsKey(sum - goal)){
-                count+=map.get(sum-goal);
+            while(i<j && (nums[i] == 0 || windowsum > goal)){
+                if(nums[i] == 1){
+                    prefixzero=0;
+                }
+                else{
+                    prefixzero +=1;
+                }
+
+                windowsum -= nums[i];
+                i++;
             }
-                 //store the current prefix sum
-                 map.put(sum, map.getOrDefault(sum,0)+1);
-            
+            if(windowsum == goal){
+                count+=1+prefixzero;
+            }
+            j++;
         }
         return count;
     }
