@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0646-maximum-length-of-pair-chain) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0948-sort-an-array) |
+| [0966-binary-subarrays-with-sum](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0966-binary-subarrays-with-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1046-max-consecutive-ones-iii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0966-binary-subarrays-with-sum) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0424-longest-repeating-character-replacement) |
+| [0966-binary-subarrays-with-sum](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1046-max-consecutive-ones-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Trie
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1046-max-consecutive-ones-iii) |
 | [1985-maximum-subarray-min-product](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1985-maximum-subarray-min-product) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
