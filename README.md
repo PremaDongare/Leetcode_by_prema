@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0338-counting-bits) |
 | [0646-maximum-length-of-pair-chain](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0646-maximum-length-of-pair-chain) |
 ## Stack
 |  |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0222-count-complete-tree-nodes) |
+| [0338-counting-bits](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0371-sum-of-two-integers) |
 ## Rolling Hash
 |  |
