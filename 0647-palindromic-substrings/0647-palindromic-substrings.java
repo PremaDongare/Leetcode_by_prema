@@ -1,40 +1,27 @@
 class Solution {
-       //using memorization
-       int [][]t;
-    public boolean check(String s, int i, int j){
-        if(i>=j){
-            return true;
-        }
-        if (t[i][j]!= -1){  // not visited
-            return t[i][j]==1; // visited
-        }
-        if(s.charAt(i)==s.charAt(j)){
-         boolean val= check(s, i+1, j-1);
-         if(val==true){
-         t[i][j] =1;
-        }else{
-            t[i][j]=0;
-        }
-        return val;
-    }
-    t[i][j]=0;
-    return false;
-    }
     public int countSubstrings(String s) {
-       int n = s.length();
-       t= new int[n][n];
-       for(int[] row:t){
-        Arrays.fill(row,-1);
-       }
-       int count =0;
+        int n=s.length();
+        boolean [][]t = new boolean[n][n];
+        int count =0;
+        // length of substring start with 1
+        for(int L=1; L<=n; L++){
+        for(int i=0; i+L<=n; i++){
+            int j=i+L-1;
 
-       for(int i=0; i<n; i++){
-        for(int j=i; j<n; j++){
-            if(check(s,i,j)){
-                count++;
+            // for 1 length single character
+            if(i==j){
+                t[i][i]=true;
+            }else if (i+1 == j){
+               t[i][j] = (s.charAt(i) == s.charAt(j));  // string of two character
+            }else{
+                t[i][j] = (s.charAt(i) == s.charAt(j) && t[i+1][j-1]);
+            }
+
+            if(t[i][j]){
+                count ++;
             }
         }
-       } 
-       return count;
+        }
+        return count;
     }
 }
