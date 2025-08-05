@@ -1,49 +1,43 @@
+// for dp
+
 class Solution {
-      int [][]t;
     public String longestPalindrome(String s) {
-        int n = s.length();
-        int Max= Integer.MIN_VALUE;
-        int start = 0; // help while calculating length
+      int n = s.length();
+      int max =0;
+      int index=0;
 
-        // initialize t with 0 means not yet compute 
-        t= new int[n][n];
-        for(int i=0; i<n; i++){
-            Arrays.fill(t[i],-1);
+      boolean[][] t= new boolean[n][n];
+
+      // for  single character
+      for(int i=0; i<n;i++){
+        t[i][i] = true;
+        max =1;
+        index=i;
+      } 
+
+      // check for 2
+      for(int i=0; i<n-1; i++){
+        if(s.charAt(i) == s.charAt(i+1)){
+            t[i][i+1]=true;
+            max=2;
+            index=i;
         }
+      }
+      // for mor than 2 
 
-        //now main loop
-        for (int i=0; i<n; i++){
-            for (int j=i; j<n; j++){
+      for(int L =3; L<=n ; L++){
+        for(int i=0; i<n-L+1;i++){
+            int j=i+L-1;
 
-                // if it is palindrom and length is also greater that max
-                if(solve(s,i,j) && j-i+1>Max){
-                    start =i;
-                    Max = j-i+1;
+            if(s.charAt(i) == s.charAt(j) && t[i+1][j-1]){
+                t[i][j] = true;
+                if(j-i+1 >max){
+                    max=j-i+1;
+                    index =i;
                 }
             }
         }
-         return s.substring(start, start+Max);
-    }
-
-    // function to check if the str is palin
-    private boolean solve(String s, int l , int r){
-        if (l>=r){
-            return true;
-        }
-        // if alredy compu return the store result
-
-        if (t[l][r] != -1){
-             return t[l][r] == 1; // is palindrom
-        }
-
-        // palind logic
-        if(s.charAt(l) == s.charAt(r)){
-            t[l][r] = solve(s, l+1, r-1) ?1:0;
-        }else{
-            // if char not match 
-            t[l][r]=0; //not a palindrom
-        }
-
-        return t[l][r]==1;
+      }
+      return s.substring(index, index+max);
     }
 }
