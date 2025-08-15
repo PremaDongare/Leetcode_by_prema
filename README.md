@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0496-next-greater-element-i) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0647-palindromic-substrings) |
 ## Stack
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0646-maximum-length-of-pair-chain) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0455-assign-cookies) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0646-maximum-length-of-pair-chain](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0646-maximum-length-of-pair-chain) |
