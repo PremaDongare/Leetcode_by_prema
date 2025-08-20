@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0459-repeated-substring-pattern) |
+| [0572-subtree-of-another-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0572-subtree-of-another-tree) |
 | [1508-longest-happy-prefix](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1508-longest-happy-prefix) |
 ## Sliding Window
 |  |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0572-subtree-of-another-tree) |
 | [1508-longest-happy-prefix](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1508-longest-happy-prefix) |
 ## Backtracking
 |  |
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0386-lexicographical-numbers) |
 | [0513-find-bottom-left-tree-value](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0662-maximum-width-of-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0799-minimum-distance-between-bst-nodes) |
