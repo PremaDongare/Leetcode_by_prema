@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0513-find-bottom-left-tree-value) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0349-intersection-of-two-arrays](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0540-single-element-in-a-sorted-array) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0513-find-bottom-left-tree-value) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0386-lexicographical-numbers) |
