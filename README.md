@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1370-count-number-of-nice-subarrays) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1985-maximum-subarray-min-product](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1985-maximum-subarray-min-product) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1370-count-number-of-nice-subarrays) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Trie
 |  |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0647-palindromic-substrings) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
 |  |
 | ------- |
