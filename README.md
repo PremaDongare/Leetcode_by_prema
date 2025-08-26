@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1985-maximum-subarray-min-product](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1985-maximum-subarray-min-product) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
