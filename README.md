@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-time-needed-to-buy-tickets](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2195-time-needed-to-buy-tickets) |
 | [2662-check-knight-tour-configuration](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2662-check-knight-tour-configuration) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
