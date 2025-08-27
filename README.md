@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-check-knight-tour-configuration](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2662-check-knight-tour-configuration) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0647-palindromic-substrings) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Stack
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1036-rotting-oranges) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2662-check-knight-tour-configuration](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2662-check-knight-tour-configuration) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0070-climbing-stairs) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Bit Manipulation
 |  |
 | ------- |
