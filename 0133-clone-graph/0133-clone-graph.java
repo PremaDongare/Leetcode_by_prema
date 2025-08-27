@@ -19,38 +19,38 @@ class Node {
 */
 
 class Solution {
-
-    public void DFS(Node node, Node cloneNode, Node[] visited){
-
-        visited[node.val] = cloneNode;
-
-        // iterate through all neigh
-        for(Node neighbour: node.neighbors){
-        // if not visited
-        if(visited[neighbour.val] == null){
-            // create new
-            Node cloneNeighoubr= new Node(neighbour.val);
-            cloneNode.neighbors.add(cloneNeighoubr);
-
-            DFS(neighbour, cloneNeighoubr, visited);
-        }else{
-            // if alredy visited , just connect
-            cloneNode.neighbors.add(visited[neighbour.val]);
-        }
-    }
-}
     public Node cloneGraph(Node node) {
         if(node == null){
             return null;
         }
+        Node[] visited = new Node[101];
 
-        // first node
+        //clone start node 
         Node cloneNode = new Node(node.val);
-        // put in in visited
-         Node[] visited = new Node[101];
-        //dfs
-        DFS(node,cloneNode,visited);
+        visited[node.val] = cloneNode;
 
+        //BFS
+        Queue<Node> q = new LinkedList<>();
+        q.add(node);
+
+        //process nodes
+        while(!q.isEmpty()){
+            Node current=q.poll();
+
+            // traverse 
+            for(Node neighbour: current.neighbors){
+                if(visited[neighbour.val] == null){
+
+                    Node cloneNeighbour = new Node(neighbour.val);
+
+                    visited[neighbour.val]=cloneNeighbour;
+
+                    q.add(neighbour);
+                }
+                //connect the cloned neigh
+                visited[current.val].neighbors.add(visited[neighbour.val]);
+            }
+        }
         return cloneNode;
     }
 }
