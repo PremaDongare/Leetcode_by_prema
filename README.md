@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0647-palindromic-substrings) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1133-last-substring-in-lexicographical-order) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1508-longest-happy-prefix](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1508-longest-happy-prefix) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Trie
