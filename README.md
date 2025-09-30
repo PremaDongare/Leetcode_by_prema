@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0216-combination-sum-iii) |
 | [0303-range-sum-query-immutable](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0303-range-sum-query-immutable) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0498-diagonal-traverse) |
 | [1036-rotting-oranges](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1036-rotting-oranges) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0513-find-bottom-left-tree-value) |
@@ -562,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0200-number-of-islands) |
 | [0801-is-graph-bipartite](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0801-is-graph-bipartite) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Graph
