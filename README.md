@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0151-reverse-words-in-a-string) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0347-top-k-frequent-elements) |
