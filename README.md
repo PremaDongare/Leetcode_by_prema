@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0216-combination-sum-iii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0371-sum-of-two-integers) |
 | [1014-k-closest-points-to-origin](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1370-count-number-of-nice-subarrays) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0443-string-compression) |
