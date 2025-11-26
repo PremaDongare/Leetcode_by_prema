@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0092-reverse-linked-list-ii) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0023-merge-k-sorted-lists) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0191-number-of-1-bits) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0347-top-k-frequent-elements) |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
