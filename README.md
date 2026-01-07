@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0498-diagonal-traverse) |
+| [0503-next-greater-element-ii](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0503-next-greater-element-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0540-single-element-in-a-sorted-array) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0937-online-stock-span) |
 | [1985-maximum-subarray-min-product](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1985-maximum-subarray-min-product) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0937-online-stock-span) |
 | [1985-maximum-subarray-min-product](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1985-maximum-subarray-min-product) |
 ## Prefix Sum
