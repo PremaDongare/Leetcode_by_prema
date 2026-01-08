@@ -1,55 +1,54 @@
-
-public class Solution {
+class Solution {
     public String minWindow(String s, String t) {
-        int n = s.length();
-
-        if (t.length() > n)
+        if(s.length()<t.length()){
             return "";
-
-        Map<Character, Integer> mp = new HashMap<>();
-
-        // store t
-        for (char ch : t.toCharArray())
-            mp.put(ch, mp.getOrDefault(ch, 0) + 1);
-
-        int requiredCount = t.length();
-        int i = 0, j = 0;
-
-        int minWindowSize = Integer.MAX_VALUE;
-        int start_i = 0;
-
-        // main work
-        while (j < n) {
-            char ch = s.charAt(j);
-
-            if (mp.containsKey(ch) && mp.get(ch) > 0)
-                requiredCount--;
-
-            mp.put(ch, mp.getOrDefault(ch, 0) - 1);
-
-            while (requiredCount == 0) {
-                // start shrinking the window
-
-                int currWindowSize = j - i + 1;
-
-                if (minWindowSize > currWindowSize) {
-                    minWindowSize = currWindowSize;
-                    start_i = i;
-                }
-
-                char startChar = s.charAt(i);
-                mp.put(startChar, mp.getOrDefault(startChar, 0) + 1);
-
-                if (mp.containsKey(startChar) && mp.get(startChar) > 0) {
-                    requiredCount++;
-                }
-
-                i++;
-            }
-
-            j++;
         }
 
-        return minWindowSize == Integer.MAX_VALUE ? "" : s.substring(start_i, start_i + minWindowSize);
-    }
-}
+        // freq of t
+        HashMap<Character, Integer> need = new HashMap<>();
+        for(char c: t.toCharArray()){
+            need.put(c, need.getOrDefault(c,0)+1);
+        }
+
+        // sliding wind
+         HashMap<Character, Integer> wind = new HashMap<>();
+         int left=0, right=0;
+         int formed =0;
+         int req = need.size();
+
+         //result 
+         int minsize= Integer.MAX_VALUE;
+         int start=0;
+
+         while(right<s.length()){
+            char c = s.charAt(right);
+            wind.put(c, wind.getOrDefault(c,0)+1);
+
+            // check
+            if(need.containsKey(c) && wind.get(c).intValue() == need.get(c).intValue()){
+                formed++;
+            }
+
+            // shrink
+
+            while(left <= right && formed == req){
+                // update res
+                if(right-left+1 < minsize){
+                    minsize = right-left+1;
+                    start = left;
+                }
+
+                char leftchar = s.charAt(left);
+                wind.put(leftchar, wind.get(leftchar)-1);
+
+            if (need.containsKey(leftchar) && wind.get(leftchar) < need.get(leftchar))
+             { 
+                formed--; 
+                }
+                 left++; 
+                 }
+                  right++;
+                   }
+                    return minsize == Integer.MAX_VALUE ? "" : s.substring(start, start + minsize); 
+                    } 
+                    }
