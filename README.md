@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0232-implement-queue-using-stacks) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0226-invert-binary-tree) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0226-invert-binary-tree) |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0133-clone-graph) |
+| [0144-binary-tree-preorder-traversal](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0226-invert-binary-tree) |
