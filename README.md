@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0540-single-element-in-a-sorted-array) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1046-max-consecutive-ones-iii) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
