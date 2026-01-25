@@ -1,26 +1,33 @@
+
+// using bucket sort
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
-        // count freq 
-        Map<Integer, Integer> freqmap = new HashMap<>();
-        for(int num :nums){
-            freqmap.put(num, freqmap.getOrDefault(num,0)+1);
+        HashMap <Integer, Integer> map =  new HashMap<>();
+        for(int i:nums){
+            map.put(i, map.getOrDefault(i,0)+1);
         }
 
-        // min heap
-        PriorityQueue<Map.Entry<Integer, Integer>> minheap = new PriorityQueue<>((a,b)->a.getValue() - b.getValue());
+        List<Integer>[]bucket= new ArrayList[nums.length+1];
 
-        // heap size
-        for(Map.Entry<Integer, Integer> entry : freqmap.entrySet()){
-            minheap.offer(entry);
-            if(minheap.size()>k){
-                minheap.poll(); 
+        //frequency = index
+        for(int key:map.keySet()){
+            int freq = map.get(key);
+
+            if (bucket[freq]== null)
+            bucket[freq] = new ArrayList<>();
+
+            bucket[freq].add(key);
+        }
+        int result[]= new int [k];
+        int index=0;
+        for(int i=bucket.length-1; i>=0 && index <k; i--){
+            if(bucket[i]!= null){
+                for(int num:bucket[i]){
+                    result[index++]= num;
+                    if(index==k)
+                    break;
+                }
             }
-        }
-        // print result 
-        int [] result = new int [k];
-        int i=0;
-        while(!minheap.isEmpty()){
-            result[i++] = minheap.poll().getKey();
         }
 
         return result;
