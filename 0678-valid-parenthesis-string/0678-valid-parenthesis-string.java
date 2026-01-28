@@ -1,39 +1,26 @@
-//using two stacks
+//gready approach
 
 class Solution {
     public boolean checkValidString(String s) {
-        Stack<Integer> opstack = new Stack<>();
-        Stack<Integer> ststack= new Stack<>();
+        int min =0;
+        int max =0;
 
-        for(int i=0; i<s.length(); i++){
-            char ch= s.charAt(i);
-        
+        for(char ch : s.toCharArray()){
+            if(ch == '('){
+                min++;
+                max++;
+            }else if(ch==')'){
+                min --;
+                max--;
+            }else{  //*
+            min--;
+            max++;
 
-        if(ch=='('){
-            opstack.push(i);
-        } else if(ch == '*'){
-            ststack.push(i);
-        }else{
-            if(!opstack.isEmpty()){
-                opstack.pop();
-            }else if (!ststack.isEmpty()){
-                ststack.pop();
-            }else{
-                return false;
             }
-        }
-        }
-        // if only ( ( and * is remaining check their incoming index)
-        while(!opstack.isEmpty() && !ststack.isEmpty()){
-            if(opstack.peek()<ststack.peek()){
-                opstack.pop();
-                ststack.pop();
-            }else{
-               return false;
-            }
-        }
-        
-     return opstack.isEmpty();
 
+            if(max < 0 ) return false;
+            min = Math.max(min,0);
+        }
+        return min==0;
     }
 }
