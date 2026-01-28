@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0459-repeated-substring-pattern) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0647-palindromic-substrings](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0686-repeated-string-match) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1133-last-substring-in-lexicographical-order) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0678-valid-parenthesis-string) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Stack
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0678-valid-parenthesis-string) |
 | [0937-online-stock-span](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0937-online-stock-span) |
 | [1985-maximum-subarray-min-product](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1985-maximum-subarray-min-product) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0846-hand-of-straights) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
