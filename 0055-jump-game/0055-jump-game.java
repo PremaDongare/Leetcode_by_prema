@@ -1,22 +1,39 @@
+
+// recursion-memoisation  o(n^2) sc o(n)
+
 class Solution {
+
+    Boolean[] dp; 
     public boolean canJump(int[] nums) {
-        int maxReach = 0;
-        
-        for (int i = 0; i < nums.length; i++) {
-            // If the current index is beyond the maximum reachable point, return false
-            if (i > maxReach) {
-                return false;
-            }
-            
-            // Update the maximum point reachable from this index
-            maxReach = Math.max(maxReach, i + nums[i]);
-            
-            // If the maximum point is beyond or equal to the last index, return true
-            if (maxReach >= nums.length - 1) {
+        dp =  new Boolean[nums.length];
+        return  canReach(0,nums);
+    }
+
+        private boolean canReach(int index, int[]nums){
+            //if we cross last index
+            if(index >= nums.length-1){
                 return true;
             }
+              // if we get zero
+            if(nums[index] == 0){
+                return false;
+            }
+
+            //if value present in dp
+            if(dp[index] != null){
+                return dp[index];
+            }
+
+            // all possible jumb
+            for(int jump= 1; jump<= nums[index];jump++){
+                if(canReach(index+jump,nums)){
+                    dp[index]=true; // store result
+                    return true;
+                }
+            }
+            dp[index] = false; 
+            return false;
         }
         
-        return false;  // If we exit the loop, it means we can't reach the last index
-    }
+    
 }
