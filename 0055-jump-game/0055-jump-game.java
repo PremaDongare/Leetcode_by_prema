@@ -1,39 +1,23 @@
-
-// recursion-memoisation  o(n^2) sc o(n)
+//dp tabulation  
 
 class Solution {
-
-    Boolean[] dp; 
     public boolean canJump(int[] nums) {
-        dp =  new Boolean[nums.length];
-        return  canReach(0,nums);
-    }
+        int n = nums.length;
 
-        private boolean canReach(int index, int[]nums){
-            //if we cross last index
-            if(index >= nums.length-1){
-                return true;
-            }
-              // if we get zero
-            if(nums[index] == 0){
-                return false;
-            }
+        boolean [] t = new boolean[n];
+        //if t = true means you reach that index
 
-            //if value present in dp
-            if(dp[index] != null){
-                return dp[index];
-            }
-
-            // all possible jumb
-            for(int jump= 1; jump<= nums[index];jump++){
-                if(canReach(index+jump,nums)){
-                    dp[index]=true; // store result
-                    return true;
+        // we are alredy on ind=0;
+        t[0]= true;
+        for(int i=0; i<n; i++){
+            for(int j =i-1; j>=0; j--){
+                // check we can jump from j to i and j is reachable
+                if(t[j] && j+nums[j]>=i){
+                    t[i]=true;
+                    break;
                 }
             }
-            dp[index] = false; 
-            return false;
         }
-        
-    
+        return t[n-1];
+    }
 }
