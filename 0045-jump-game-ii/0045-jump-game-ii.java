@@ -1,20 +1,22 @@
-//greedy
-
 class Solution {
+    int dp[];
     public int jump(int[] nums) {
-        int jump =0;
-        int currEnd =0;
-        int farthest=0;
+        dp=new int[nums.length];
+        Arrays.fill(dp,-1);
+        return solve(0,nums);
+    }
+    private int solve(int i, int[]nums){
 
-        for(int i=0; i<nums.length-1; i++){
-            farthest= Math.max(farthest, i+nums[i]);
+        if(i>=nums.length-1)return 0;
+        if(nums[i]==0) return 10000000;
 
-            //if we reach at the end of the  currrent jump
-            if(i==currEnd){
-                jump++;
-                currEnd = farthest;
-            }
+        if(dp[i] != -1)return dp[i];
+
+        int minjump=10000000;
+        for(int jump=1; jump<=nums[i];jump++){
+            minjump=Math.min(minjump,1+solve(i+jump,nums));
         }
-        return jump;
+
+        return dp[i]= minjump;
     }
 }
