@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0088-merge-sorted-array) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0215-kth-largest-element-in-an-array) |
