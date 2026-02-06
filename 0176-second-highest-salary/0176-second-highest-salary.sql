@@ -1,7 +1,8 @@
-# solve using subquery
+# ORDER BY + LIMIT
 SELECT
-    MAX(DISTINCT salary) AS SecondHighestSalary
-FROM Employee
-WHERE salary < (
-    SELECT MAX(salary) FROM Employee
-);
+    (
+        SELECT DISTINCT salary
+        FROM Employee
+        ORDER BY salary DESC
+        LIMIT 1 OFFSET 1
+    ) AS SecondHighestSalary;
