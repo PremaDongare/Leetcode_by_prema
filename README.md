@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0646-maximum-length-of-pair-chain) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0678-valid-parenthesis-string) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0498-diagonal-traverse) |
+| [0542-01-matrix](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1036-rotting-oranges) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0513-find-bottom-left-tree-value) |
+| [0542-01-matrix](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0542-01-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0799-minimum-distance-between-bst-nodes) |
