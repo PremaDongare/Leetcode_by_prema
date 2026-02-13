@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0347-top-k-frequent-elements) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PremaDongare/Leetcode_by_prema/tree/master/0560-subarray-sum-equals-k) |
