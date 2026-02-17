@@ -1,17 +1,18 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        if(x<0) return false;
+        if(x <0) return false;
+        String s = String.valueOf(x);
+        Stack<Character> st = new Stack<>();
 
-        //first convert the int to string.
-        String s= String.valueOf(x);
-        int l= 0;
-        int r = s.length()-1;
-        while(l<r){
-            if(s.charAt(l) != s.charAt(r)){
+        //step 1 
+        for(char ch :s.toCharArray()){
+            st.push(ch);
+        }
+        // step 2
+        for(char ch: s.toCharArray()){
+            if(ch != st.pop()){
                 return false;
             }
-            l++;
-            r--;
         }
 
         return true;
