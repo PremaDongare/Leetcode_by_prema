@@ -1,24 +1,27 @@
+// keep the majority character and replace the list .
+
 class Solution {
     public int characterReplacement(String s, int k) {
-        int [] freq = new int [26];
-        int left =0;
-        int maxlen=0;
-        int maxfreq=0;
+        int freq []= new int[26];
+        int l=0;
+        int maxfreq = 0; // max freq element in current window 
+        int maxlen =0;
 
-        for(int right=0; right<s.length(); right++){
-         freq[s.charAt(right) - 'A']++;
-         maxfreq = Math.max(maxfreq, freq[s.charAt(right) - 'A']);
+        for(int r =0; r<s.length();r++){
+         freq[s.charAt(r) - 'A']++;
 
-         int windowsize = right - left +1;
-
-         if(windowsize-maxfreq > k){
-            freq[s.charAt(left) -'A']--;
-            left ++;
-         }
-         maxlen=Math.max(maxlen, right - left +1);
-        }
-
-        return maxlen;
+         //max freq
+         maxfreq= Math.max(maxfreq,freq[s.charAt(r)-'A']);
+          //check if window is valid
+          if((r-l+1)-maxfreq >k){
+            //shrink
+            freq[s.charAt(l)-'A']--;
+            l++;
+          }
+          //update max length
+          maxlen = Math.max(maxlen,r-l+1);
         
+        }
+        return maxlen;
     }
 }
